@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1577648614 source:c:\users\zenbook\desktop\fop_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<winsock2.h>
+	"cJSON.h"
+	"cJSON.c"
+
+1577518068 c:\users\zenbook\desktop\fop_project\cjson.h
+	<stddef.h>
+
+1577518022 c:\users\zenbook\desktop\fop_project\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
+1577518022 source:c:\users\zenbook\desktop\fop_project\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
